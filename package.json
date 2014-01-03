@@ -1,0 +1,10 @@
+ {
+  "name": "chamber-playground",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Eric Vicenti <ericvicenti@gmail.com>",
+  "description": "",
+  "dependencies" : {
+    "chamber": ""
+  }
+}
